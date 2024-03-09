@@ -4,15 +4,14 @@ Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, 
 Check your current location using the command pwd. A deadly sandstorm, Vortex of Desolation, is impending. Get to safety before it catches up!!!
 The Eolian caves are dark indeed. U sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.
 Hint: When faced with identical paths make use of ls -la to analyze the depth of the paths.
-
+Get the hidden cipher and store it in the Handbook ...
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light. Use git checkout <branch name> to switch between realms overriding the seals.
-Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses.
+Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ## Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries and using holy magic to cleanse the corruption is an effective strategy indeed.
-Use the cipher to find the locations where the holy herbs can be found and gather the herbs containing “holy” in them in your handbook.
-“Each element of the herb formula refers to the position on the alphabetic table”
-1 // Find and concat the positions of the elements in the formula and then cut the molecule into the same number of molecules of the each and get the remaining  . U get a number find its distance from the origin of light. And now do vice versa . -
+Defeat the Boss to get the cipher .. But it wouldnt be easy since u have the find the cipher .....
+The Cipher is the alphabetic collection of increasingly unique alphabets taken from the even numbered letters in the Holy Good Herbs
 
 ## Celestial Veil Amulet
 Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.
