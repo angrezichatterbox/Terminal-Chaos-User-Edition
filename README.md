@@ -2,7 +2,7 @@
 Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!
 ## Part 1
 Check your current location using the command pwd. A deadly sandstorm, Vortex of Desolation, is impending. Get to safety before it catches up!!!
-The Eolian caves are dark indeed. U sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.
+The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.
 Hint: When faced with identical paths make use of ls -la to analyze the depth of the paths.
 Get the hidden cipher and store it in the Handbook ...
 ## Part 2
