@@ -1,0 +1,108 @@
+bhiewfkwergb eoijvbefiorbvioerj(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % ls
+Eolian Caves		The Deep Desert N
+The Deep Desert E	Vortex of Desolation
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % du -h -d 2 
+  0B	./Vortex of Desolation/Sandcurrents1
+  0B	./Vortex of Desolation/Sandcurrents0
+  0B	./Vortex of Desolation/Sandcurrents2
+  0B	./Vortex of Desolation/Sandcurrents4
+  0B	./Vortex of Desolation/Sandcurrents3
+  0B	./Vortex of Desolation
+600K	./The Deep Desert N/9
+600K	./The Deep Desert N/7
+600K	./The Deep Desert N/6
+600K	./The Deep Desert N/1
+600K	./The Deep Desert N/10
+600K	./The Deep Desert N/8
+600K	./The Deep Desert N/4
+600K	./The Deep Desert N/3
+600K	./The Deep Desert N/2
+600K	./The Deep Desert N/5
+5.9M	./The Deep Desert N
+ 16K	./Eolian Caves
+608K	./The Deep Desert E/9
+600K	./The Deep Desert E/7
+600K	./The Deep Desert E/6
+600K	./The Deep Desert E/1
+600K	./The Deep Desert E/10
+600K	./The Deep Desert E/8
+600K	./The Deep Desert E/4
+600K	./The Deep Desert E/3
+600K	./The Deep Desert E/2
+600K	./The Deep Desert E/5
+5.9M	./The Deep Desert E
+ 12M	.
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % du -h -d 1
+  0B	./Vortex of Desolation
+5.9M	./The Deep Desert N
+ 16K	./Eolian Caves
+5.9M	./The Deep Desert E
+ 12M	.
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % cd Vortex\ of\ Desolation
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % ls
+'Sandcurrents0	Sandcurrents1	Sandcurrents2	Sandcurrents3	Sandcurrents4
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd Sandcurrents
+cd: no such file or directory: Sandcurrents
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd Sandcurrents0
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents0 % vim hello.txt
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents0 % cd ..
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd ..
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % du -h -d 1
+4.0K	./Vortex of Desolation
+5.9M	./The Deep Desert N
+ 16K	./Eolian Caves
+5.9M	./The Deep Desert E
+ 12M	.
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % cd Vortex\ of\ Desolation
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd Sandcurrents1 
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % 
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % ls
+Sandercurrents0	Sandercurrents1	Sandercurrents2	Sandercurrents3	Sandercurrents4
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % vim hello.txt
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % vim hello2.,txt
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % vim hello5.txt
+(base) gauthammohanraj@Gauthams-MacBook-Air Sandcurrents1 % cd ..
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % ls
+Sandcurrents0	Sandcurrents1	Sandcurrents2	Sandcurrents3	Sandcurrents4
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd ..
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % ls
+Eolian Caves		The Deep Desert N
+The Deep Desert E	Vortex of Desolation
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % du -h -d 1
+ 16K	./Vortex of Desolation
+5.9M	./The Deep Desert N
+ 16K	./Eolian Caves
+5.9M	./The Deep Desert E
+ 12M	.
+(base) gauthammohanraj@Gauthams-MacBook-Air Arrakis-dex % cd Vortex\ of\ Desolation
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % ls
+Sandcurrents0	Sandcurrents1	Sandcurrents2	Sandcurrents3	Sandcurrents4
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % cd Sandcurrents5
+cd: no such file or directory: Sandcurrents5
+(base) gauthammohanraj@Gauthams-MacBook-Air Vortex of Desolation % vim hello.txt
+
+bhiewfkwergb eoijvbefiorbvioerj
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
+
