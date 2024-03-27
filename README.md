@@ -3,7 +3,7 @@ Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, 
 ## Part 1
 Check your current location using the command pwd. A deadly sandstorm, Vortex of Desolation, is impending. Get to safety before it catches up!!!
 The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.
-Hint: When faced with identical paths make use of du -h --max-depth=1 to analyze the depth of the paths.
+Hint: When faced with identical paths make use of du -h -d 1   to analyze the depth of the paths.
 Get the hidden cipher and store it in the Handbook ...
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light. Use git checkout <branch name> to switch between realms overriding the seals.
