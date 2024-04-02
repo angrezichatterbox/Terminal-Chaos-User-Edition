@@ -20,9 +20,9 @@ Find the longest and narrowest path in the DarkRealm3 The Safest of the Dark Rea
 #### The Shadowforged Blade of Eclipsar
 This dark and ominous weapon is said to be forged in the heart of Umbrafall, bathed in the corrupted energies that permeate the accursed realm. The blade is known for its ability to absorb and channel the malevolent forces that linger within Umbrafall, granting its wielder the power to unleash devastating attacks and tap into the shadows themselves. However, the allure of such power comes at a cost, as the blade hungers for the life force of those it strikes, leaving a chilling and haunting aura in its wake.
 Truly a handy and effective weapon against the heretics.Get your very our relic from the Chest hidden within the mists of the DarkRealm1 and Enter the Celestial Amulet Code.
-## Part 4
+## Part 5
 Now, in possession of both halves of the ancient tome, the time has come to unite the separated halves, to forge a union that transcends the fractured abyss. However, an unforeseen conflict arises as the half from the dark realm reveals a corruption that resists the sanctifying influence of the Celestial Veil Amulet.
 Resolve conflicts in the corrupted branch by invoking the purifying force of deletion.The Walls Begin to merge but To completely merge it and Defeats the Gods merge it using git and get the final code ... Try to identify the code and decode it ... to get the final Link
 
-## Part 5: Welcome to GodSuite
+## Part 6: Welcome to GodSuite
 As the beacon of hope resurrects to its true glory, the **GodSuite** branch is born. The book represents the young boy himself. Each commit, a distinct chapter, encapsulating the trials, growth, and eventual transcendence. The word "portal" acts as a key, a thread that weaves through the narrative, revealing the machines that propelled the boy toward his godly destiny. Check through all commits, and you might also meet the same fate..
