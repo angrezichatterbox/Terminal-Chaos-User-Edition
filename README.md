@@ -4,7 +4,7 @@ In the midst of encroaching chaos and the rise of heresy, the Emperor beckons fo
 Hurry to ascertain your current location using the 'pwd' command. An impending sandstorm, the Vortex of Desolation, looms menacingly. Seek refuge without delay! Although all nearby caves are already occupied, there exists one with scarce inhabitants harboring essential resources. Despite the perilous route to this haven, it remains largely untraveled. Make it your priority to seek shelter there for safety and the prospect of discovering concealed provisions. To discern the sizes of various folders, utilize the command `du -h -d 1`.
 
 ## Part 2 
-You have ventured into the domain of ancient artifacts, a realm rich with relics coveted by many. Excellent. Now, endeavor to uncover the inaugural cipher to be inscribed within the sacred tome. Seek out the elusive document that eludes modification by any, including yourself. After Finding the code return back to the Arrakis-dex to add the code to the handbook. 
+You have ventured into the domain of ancient artifacts, a realm rich with relics coveted by many. Excellent. Now, endeavor to uncover the inaugural cipher to be inscribed within the sacred tome. Run sy.py to begin your task.Seek out the elusive document that eludes modification by any, including yourself. After Finding the code return back to the Arrakis-dex to add the code to the handbook. 
 ## Part 3
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light. Use `git checkout <branch name> to switch between realms overriding the seals.`
 Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
