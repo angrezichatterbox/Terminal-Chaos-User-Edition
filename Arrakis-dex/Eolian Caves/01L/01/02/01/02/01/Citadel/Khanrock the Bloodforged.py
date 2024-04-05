@@ -52,9 +52,9 @@ def dropsAndFileGen(stdscr, height, width):
     stdscr.refresh()
     time.sleep(2.5)
     with open("LightBook.txt","w") as file:
-        file.write("This is the Light Book!\ncode:2F 61 6E 67 72 65 7A 69 63 68 61 74 74")
+        file.write("Behold the Light Book!\nA beacon of wisdom that illuminates the path of creation, peace, and enlightment. The legends whisper of a hidden counterpart in the Dark Realm.\ncode:2F 61 6E 67 72 65 7A 69 63 68 61 74 74")
     with open("Celestial Veil Amulet.txt","w") as file:
-        file.write("CSigVmaroAn\n")
+        file.write("Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.\ncode:CSigVmaroAn\n")
     on=False
 
 
