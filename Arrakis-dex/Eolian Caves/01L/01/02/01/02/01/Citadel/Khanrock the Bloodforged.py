@@ -52,7 +52,7 @@ def dropsAndFileGen(stdscr, height, width):
     stdscr.refresh()
     time.sleep(2.5)
     with open("LightBook.txt","w") as file:
-        file.write("This is the Light Book!\n")
+        file.write("This is the Light Book!\ncode:2F 61 6E 67 72 65 7A 69 63 68 61 74 74")
     with open("Celestial Veil Amulet.txt","w") as file:
         file.write("CSigVmaroAn\n")
     on=False
@@ -68,7 +68,7 @@ def holy_attack(stdscr, height, width):
     text=box.edit()
     stdscr.erase()
     stdscr.refresh()
-    if text=="niggers ":
+    if text=="LhrudhkCqaLnnmanknl ":
         stdscr.addstr(height//2-height//8, width//2-20,f"{text}is the code! Using holy magic....")
         stdscr.refresh()
         time.sleep(1)
