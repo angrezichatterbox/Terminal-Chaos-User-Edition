@@ -4,10 +4,10 @@ Make sure to collect and store all the codes of weapons, artifacts and keys to y
 ## Part 1
 Check your current location using the command pwd. A deadly sandstorm, Vortex of Desolation, is impending. Get to safety before it catches up!!!
 The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.
-Hint: When faced with identical paths make use of 'du -h -d 1’ to analyze the depth of the paths. Follow the path with the least depth.
+Hint: When faced with identical paths make use of `du -h -d 1` to analyze the depth of the paths. Follow the path with the least depth.
 Get the hidden code and store it in the Handbook ...
 ## Part 2
-You have got a promising lead. The secrets of the sealed realms are slowly coming to light. Use ‘git checkout <branch name>’ to switch between realms overriding the seals.
+You have got a promising lead. The secrets of the sealed realms are slowly coming to light. Use `git checkout <branch name>` to switch between realms overriding the seals.
 Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ### Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.
