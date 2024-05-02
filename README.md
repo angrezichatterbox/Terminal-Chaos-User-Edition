@@ -16,7 +16,7 @@ Choose the first word as the word with two repeating oo.Remove all vowels from t
 ## Part 4
 The first part of the book has been acquired. The Dark realm awaits you. The air is thick with the noxious fumes of corruption, and the ground beneath is stained with the ichor of the damned. And here, beyond the ominous shadows and malevolent forces, lies the gateway to the second half of the scriptures…
 Traversing through these unforgiving environment might be impossible, but the Celestial Veil serves as the beacon for the lost tarnished, defying the very essence of the abyss itself.
-Find the longest and narrowest path in the DarkRealm3 The Safest of the Dark Realms to understand the reality of the Dark Realm......
+Find the longest and narrowest path in the DarkRealm3 The Safest of the Dark Realms to understand the reality of the Dark Realm...... (Remember its really dark in the dark realm)
 #### The Shadowforged Blade of Eclipsar
 This dark and ominous weapon is said to be forged in the heart of Umbrafall, bathed in the corrupted energies that permeate the accursed realm. The blade is known for its ability to absorb and channel the malevolent forces that linger within Umbrafall, granting its wielder the power to unleash devastating attacks and tap into the shadows themselves. However, the allure of such power comes at a cost, as the blade hungers for the life force of those it strikes, leaving a chilling and haunting aura in its wake.
 Truly a handy and effective weapon against the heretics.Get your very our relic from the Chest hidden within the mists of the DarkRealm1 and Enter the Celestial Amulet Code.
