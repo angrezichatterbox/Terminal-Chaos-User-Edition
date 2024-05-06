@@ -5,7 +5,11 @@ Make sure to collect and store all the codes of weapons, artifacts and keys to y
 Check your current location using the command pwd. A deadly sandstorm, Vortex of Desolation, is impending. Get to safety before it catches up!!!<br>
 The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.<br>
 Hint: When faced with identical paths make use of `du -h -d 1` to analyze the depth of the paths. Follow the path with the least depth.
+
+You have ventured into the domain of ancient artifacts, a realm rich with relics coveted by many. Excellent. Now, endeavor to uncover the inaugural cipher to be inscribed within the sacred tome. Run sy.py to begin your task.Seek out the elusive document that eludes modification by any, including yourself. After Finding the code return back to the Arrakis-dex to add the code to the handbook. 
+
 Get the hidden code and store it in the Handbook ...
+
 ## Part 2
 You have got a promising lead. The secrets of the sealed realms are slowly coming to light.<br>
 Use `git checkout <branch name>` to switch between realms overriding the seals.Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
