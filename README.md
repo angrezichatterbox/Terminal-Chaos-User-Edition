@@ -35,3 +35,7 @@ Resolve conflicts in the “corrupted” branches **DarkBranch I and II** by edi
 
 ## Part 5: Welcome to GodSuite
 As the beacon of hope resurrects to its true glory, the **GodSuite** branch is born. The book represents the young boy himself. Each commit, a distinct chapter, encapsulating the trials, growth, and eventual transcendence. The word **"portal”** acts as a key, a thread that weaves through the narrative, revealing the location of the machine that propelled the boy toward his godly destiny. Check through all commits, and you might also meet the same fate..
+
+
+###  After finishing all the tasks, it's mandatory to make a writeup explaining how you did each part in detail.
+`Some Tasks might have multiple methods of solving . Any method involving the use of terminal is accepted `
