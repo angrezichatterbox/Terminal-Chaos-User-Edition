@@ -38,4 +38,7 @@ As the beacon of hope resurrects to its true glory, the **GodSuite** branch is b
 
 
 ###  After finishing all the tasks, it's mandatory to make a writeup explaining how you did each part in detail.
-`Some Tasks might have multiple methods of solving . Any method involving the use of terminal is accepted `
+
+`Some Tasks might have multiple methods of solving. Any method involving the use of terminal is accepted `
+
+
