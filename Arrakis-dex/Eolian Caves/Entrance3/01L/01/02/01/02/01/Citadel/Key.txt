@@ -1,2 +1,2 @@
 Khanrok the Bloodforged is a formidabe enemy indeed. This entity from the Dark realm protects the Light book with his life.
-This mighty beast is fragile to holy magic. Gather herbs containing "holy" in them and use the cipher to convert and add all the herbs and convert back to use it on the boss.
+This mighty beast is fragile to holy magic. Gather herbs containing "holy good" in them. Use the cipher to convert and add all the herbs(starting with the one having "oo" in it). Remove all the vowels from the final code to use it on the boss.
