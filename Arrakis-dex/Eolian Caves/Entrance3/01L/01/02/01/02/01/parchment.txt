@@ -1,28 +1,28 @@
-Cipher(not case sensitive)
-A-1
-B-2
-C-3
-D-4
-E-5
-F-6
-G-7
-H-8
-I-9
-J-10
-K-11
-L-12
-M-13
-N-14
-O-15
-P-16
-Q-17
-R-18
-S-19
-T-20
-U-21
-V-22
-W-23
-X-24
-Y-25
-Z-26
+Key
+A --> Z    a --> z
+B --> A    b --> a
+C --> B    c --> b
+D --> C    d --> c
+E --> D    e --> d
+F --> E    f --> e
+G --> F    g --> f
+H --> G    h --> g
+I --> H    i --> h
+J --> I    j --> i
+K --> J    k --> j
+L --> K    l --> k
+M --> L    m --> l
+N --> M    n --> m
+O --> N    o --> n
+P --> O    p --> o
+Q --> P    q --> p
+R --> Q    r --> q
+S --> R    s --> r
+T --> S    t --> s
+U --> T    u --> t
+V --> U    v --> u
+W --> V    w --> v
+X --> W    x --> w
+Y --> X    y --> x
+Z --> Y    z --> y
 
