@@ -1,6 +1,9 @@
 # Terminal Chaos - User Edition 
 Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!<br>
-Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook folder** using `nano` or any of your favourite text-editors and push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire. You can use `ls` command to view all files and sub-directories within a directory and `cd` command to navigate through the them. Open the Handbook directory in a seperate Terminal so that you can have it ready at all times, making it easier to store and get codes without navigating all the way back to it.
+Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook folder** using `nano` or any of your favourite text-editors and push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
+Open the Handbook directory in a seperate Terminal so that you can have it ready at all times, making it easier to store and get codes without navigating all the way back to it.<br>
+<br>
+You can now get started with the task, by entering Arrakis-dex using the command `cd Arrakis-dex`. Good luck.
 ## Part 1
 Check your current location using the command `pwd`. A deadly sandstorm, Vortex of Desolation, is impending. Use the comand `cd <path of directory>` to get to safety before it catches up!!!<br>
 The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.<br>
