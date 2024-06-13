@@ -1,12 +1,13 @@
 # Terminal Chaos - User Edition 
 Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!<br>
-Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook folder** using `nano` or any of your favourite text-editors and push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
+<br>
+Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook folder** using `nano` or any of your favourite **text-editors**. Push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
 Open the Handbook directory in a seperate Terminal so that you can have it ready at all times, making it easier to store and get codes without navigating all the way back to it.<br>
 <br>
 You can now get started with the task, by entering Arrakis-dex using the command `cd Arrakis-dex`. Good luck.
 ## Part 1
 Check your current location using the command `pwd`. A deadly sandstorm, Vortex of Desolation, is impending. Use the comand `cd <path of directory>` to get to safety before it catches up!!!<br>
-The Eolian caves are dark indeed. You sense air coming from some hidden path. Light up the room using a more powerful ls command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.<br>
+The Eolian caves are dark indeed. You sense a breeze coming from some hidden path. Light up the room using a more powerful `ls` command. Explore the mysterious cave more to find hints and puzzle pieces that will lead you to your destiny.<br>
 Hint: When faced with identical paths make use of `du -h -d 1` to analyze the depth of the paths. Follow the path with the least depth.
 
 Once you have reached the deepest end of the entrance, run **sy.py** before you move forward with the task.
@@ -26,9 +27,10 @@ Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic
 Dropped by Khanrock the Bloodforged. Use the Celestial Veil Amulet to unlock “corrupted” files in the Dark Branch. 
 
 ## Part 3
-The first part of the book has been acquired. The Dark realm awaits you. The air is thick with the noxious fumes of corruption, and the ground beneath is stained with the ichor of the damned. And here, beyond the ominous shadows and malevolent forces, lies the gateway to the second half of the scriptures…<br>
+The first part of the book has been acquired. The **Dark realm(branch)** awaits you. The air is thick with the noxious fumes of corruption, and the ground beneath is stained with the ichor of the damned. And here, beyond the ominous shadows and malevolent forces, lies the gateway to the second half of the scriptures…<br>
+<br>
 It seems the chaos has ripped apart space time itself of the Dark Realm. Traversing through these unforgiving environments might be impossible, but the Celestial Veil serves as the beacon for the lost Astarte.<br>
-Use the Celestial Veil Amulet to unlock “corrupted” files to be found in the branches Dark Realm I and II.
+Use the **Celestial Veil Amulet** to unlock “corrupted” files to be found in the branches Dark Realm I and II.
 ### The Shadowforged Blade of Eclipsar
 This dark and ominous weapon is said to be forged in the heart of Umbrafall, bathed in the corrupted energies that permeate the accursed realm. The blade is known for its ability to absorb and channel the malevolent forces that linger within Umbrafall, granting its wielder the power to unleash devastating attacks and tap into the shadows themselves. However, the allure of such power comes at a cost, as the blade hungers for the life force of those it strikes, leaving a chilling and haunting aura in its wake.<br>
 Truly a handy and effective weapon against the heretics.
