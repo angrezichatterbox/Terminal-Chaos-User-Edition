@@ -1,7 +1,7 @@
 # Terminal Chaos - User Edition 
 Chaos is taking over, and the heretics are emerging. The Emperor calls for aid, and our fellow space marine has been stranded on the desolate planet Arrakis-dex. With nothing but a handbook and an imperial plasma gun in hand but the courage and the strength of an astarte, survive the hostile yet lifeless prison. GLORY TO THE EMPEROR!<br>
 <br>
-Create 'Handbook' directory in your task directory in 'amfoss-tasks'. Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook folder** using `nano` or any of your favourite **text-editors**. Push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
+Create 'Handbook' directory in your task directory in 'amfoss-tasks'. Make sure to collect and store all the codes of weapons, artifacts and keys as text files to your **Handbook** directory using `nano` or any of your favourite **text-editors**. Push the changes to your repository “amfoss-tasks” after every part, i.e. after every new code you acquire.<br>
 Open the Handbook directory in a seperate Terminal so that you can have it ready at all times, making it easier to store and get codes.<br>
 <br>
 You can now get started with the task, by entering Arrakis-dex using the command `cd Arrakis-dex`. Good luck.
