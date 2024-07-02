@@ -1,0 +1,4 @@
+([('Khanrock-final',
+   '/Users/gauthammohanraj/Desktop/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01L/01/02/01/02/01/Citadel/dist/Khanrock-final',
+   'EXECUTABLE')],)
