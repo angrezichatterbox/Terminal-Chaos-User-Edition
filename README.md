@@ -20,7 +20,7 @@ You have got a promising lead. The secrets of the sealed realms are slowly comin
 Use `git checkout <branch name>` to switch between realms overriding the seals.Explore the realms and lookout collectibles and ciphers in various chambers. BEWARE of hostile flora, fauna and potential dungeon Bosses. 
 ### Kharnok the Bloodforged
 Kharnok the Bloodforged, a malevolent entity shrouded in the icy depths of Arrakis-Dex, emerged from the unholy fusion of ancient chaos rituals and the raw power of the Warp. Kharnok’s symbiotic relationship with his weapon, Bloodreign, is his strength and weakness. Timing the parries to disarm the boss and using holy magic to cleanse the corruption is an effective strategy indeed.<br>
-Use linux command to search for all **“holy good”** herbs. Then replace each letter in the encoded phrase with the letter that comes before it. Concatenate the herbs with the first one being the word containing ‘oo’ in it. Remove all vowels from the final code and voila, you have made yourself a holy spell.
+Use linux command to search for all **“holy"** and **"good”** herbs. Then replace each letter in the encoded phrase with the letter that comes before it. Concatenate the herbs with the first one being the word containing ‘oo’ in it. Remove all vowels from the final code and voila, you have made yourself a holy spell.
 
 ### Celestial Veil Amulet
 Forged in the celestial forges of Sigmaron, the Celestial Veil Amulet is a relic born of divine intervention to combat the malevolent forces that threaten the balance of existence. When worn, the Celestial Veil Amulet emanates a radiant glow, warding off malevolent influences and shielding the bearer from the corrupting touch of the Chaos.<br>
