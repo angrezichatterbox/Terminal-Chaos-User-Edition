@@ -1,0 +1,72 @@
+('/home/aman/Desktop/testing '
+ 'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+ 'Caves/Entrance3/01D/.01/narrow '
+ 'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/ChestII',
+ True,
+ False,
+ True,
+ None,
+ None,
+ False,
+ False,
+ None,
+ True,
+ False,
+ None,
+ None,
+ None,
+ '/home/aman/Desktop/testing '
+ 'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+ 'Caves/Entrance3/01D/.01/narrow '
+ 'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/ChestII.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestII/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('ChestII',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/ChestII.py',
+   'PYSOURCE')],
+ [],
+ False,
+ False,
+ 1721896702,
+ [('run',
+   '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/bootloader/Linux-64bit-intel/run',
+   'EXECUTABLE')],
+ '/lib/x86_64-linux-gnu/libpython3.10.so')
