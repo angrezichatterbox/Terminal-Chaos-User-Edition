@@ -1,0 +1,64 @@
+('/home/aman/Desktop/testing '
+ 'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+ 'Caves/Entrance3/01D/.01/narrow '
+ 'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/ChestI.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/localpycs/struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/localpycs/pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/localpycs/pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/build/ChestI/localpycs/pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/loader/pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   '/home/aman/.local/lib/python3.10/site-packages/PyInstaller/hooks/rthooks/pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('ChestI',
+   '/home/aman/Desktop/testing '
+   'july/Terminal-Chaos-User-Edition/Arrakis-dex/Eolian '
+   'Caves/Entrance3/01D/.01/narrow '
+   'path/path/0D/02/01/Chamber/linuxDist/ChestI.py',
+   'PYSOURCE')],
+ 'libpython3.10.so.1.0',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
